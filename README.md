@@ -122,3 +122,6 @@ ai-text-summarizer/
 
 ## Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f189a33f-1a3b-44ef-b51e-9af44dddc979" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6dc221c3-bd79-466f-b449-89bb7a6b0f7a" />
