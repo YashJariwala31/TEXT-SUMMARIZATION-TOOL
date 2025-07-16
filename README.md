@@ -1,3 +1,17 @@
+# TEXT-SUMMARIZATION-TOOL
+
+*COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
+
+*NAME*: Jariwala Yash J.
+
+*INTERN ID*: CT04DG2943
+
+*DOMAIN*: Artificial Intelligence
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
 # 🧠 AI Text Summarizer
 
 **AI Text Summarizer** is a simple and powerful web app that uses state-of-the-art Natural Language Processing (NLP) techniques to automatically generate concise summaries from lengthy articles, documents, or reports. Built with Python, Streamlit, and Hugging Face Transformers, this tool helps save time and improve reading efficiency by distilling essential information into short, meaningful summaries.
@@ -103,10 +117,3 @@ ai-text-summarizer/
 - Summarize content from URLs
 - Export summary as `.txt` or `.pdf`
 - Add support for multiple summarization models (e.g., T5, Pegasus)
-
----
-
-## 📬 Feedback & Contributions
-
-Open to suggestions, issues, or pull requests. If you find this helpful, consider starring ⭐ the repository.
-
