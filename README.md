@@ -117,3 +117,8 @@ ai-text-summarizer/
 - Summarize content from URLs
 - Export summary as `.txt` or `.pdf`
 - Add support for multiple summarization models (e.g., T5, Pegasus)
+
+---
+
+## Output
+
