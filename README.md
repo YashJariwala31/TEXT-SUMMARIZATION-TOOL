@@ -76,50 +76,6 @@ This project was developed on a **Windows 10** machine using:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/ai-text-summarizer.git
-   cd ai-text-summarizer
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the app:
-
-   ```bash
-   streamlit run app.py
-   ```
-
----
-
-## 📂 File Structure
-
-```
-ai-text-summarizer/
-├── app.py               # Streamlit app interface
-├── summarizer.py        # Summarization logic using transformers
-├── requirements.txt     # Required packages
-└── sample_texts/        # Sample input files
-```
-
----
-
-## 📢 Future Improvements
-
-- Add support for `.pdf`, `.docx`, and `.txt` file uploads
-- Summarize content from URLs
-- Export summary as `.txt` or `.pdf`
-- Add support for multiple summarization models (e.g., T5, Pegasus)
-
----
-
 ## Output
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f189a33f-1a3b-44ef-b51e-9af44dddc979" />
